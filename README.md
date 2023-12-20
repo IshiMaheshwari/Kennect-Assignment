@@ -1,4 +1,4 @@
-# Kennect-Assignment
+
 Case Study: Post-Feed Application
 
 This is a simple Java web application that allows users to create text posts and add comments to those posts.
